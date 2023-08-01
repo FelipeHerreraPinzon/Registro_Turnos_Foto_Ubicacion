@@ -1,0 +1,48 @@
+
+#btn_iniciar{
+    width: 350px;
+    height: 75px;
+    background-color: blue; 
+    color: rgb(248, 241, 241);
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: x-large;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+#input_start{
+    width: 85%;
+    height: 50px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#instruccion{
+    background-color: aliceblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#logo_axon{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#logo_sds{
+    width: 100%;
+}
